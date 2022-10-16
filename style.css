@@ -1,0 +1,22 @@
+h1 {
+text-align: center;
+}
+.container {
+display: flex;
+background-color: lightBlue;
+flex-direction: column;
+justify-content: space-evenly;
+float: left;
+}
+ul {
+list-style-type: none;
+padding-right: 5px;
+margin-right: 5px;
+}
+.text {
+background-color: beige;
+justify-content: space-evenly;
+padding-right: 5px;
+margin-right: 5px;
+}
+
